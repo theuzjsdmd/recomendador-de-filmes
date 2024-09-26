@@ -1,0 +1,10 @@
+html, body {
+  margin: 30px;
+  padding: 0;
+  background-color: #FF5600;
+}
+
+canvas {
+  display: block;
+}
+h2{color:red}
